@@ -1,3 +1,2 @@
-# Death-Notebook
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/malangSelf/Death-Notebook)
+![alt text](source/README/images.png)
+![alt text](source/README/images-1.png)
